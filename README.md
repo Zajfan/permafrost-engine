@@ -187,3 +187,6 @@ Discuss EVERGLORY and its' development on [Discord](https://discord.gg/jSQ8M6C).
 _non-trivial_ engine issue, feel free to make a PR. Be warned that I will scrutinize every patch to make sure it meets my 
 personal quality standards for the engine code. It you wish to evolve the engine in some way and want the changes to be 
 upstreamed, then do get in touch to discuss it.
+
+## TODO ##
+a complete revritew of this engine from c to C++ Standard 23 and OpenGL 4.6
